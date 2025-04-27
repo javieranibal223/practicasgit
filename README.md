@@ -1,3 +1,9 @@
+
+practica con Git de Javier 
+
+
++ nuevo contenido 
+
 # Prácticas con GIT
 
 1) git init
@@ -12,3 +18,4 @@
 
 ## Ramas
 ![branches](branches.png)
+x
